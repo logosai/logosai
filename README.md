@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @logosai
+- 👀 I’m interested in AI & LLMs impact on humanity trough lenses schooled in continental philosophy.
+- 🌱 I’m currently learning to properly git.
+- 💞️ I’m looking to collaborate on ai-meta & concrete
+- 📫 How to reach me is by https://www.linkedin.com/in/jani-v%C3%A4is%C3%A4nen-4192b135/
